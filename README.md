@@ -45,9 +45,18 @@ I like working close to the logic: state, performance, synchronization, and how 
 ### Partial Word Writer - Assistive Typing Tool
 *Python, Flask, NLP*
 
-- Co-built an accessibility focused typing assistant that predicts partial words to reduce keystrokes.
+- Co-built an accessibility focused typing assistant that predicts based on partial words to reduce keystrokes.
 - Implemented probabilistic text prediction and backend APIs to support adaptive typing workflows.
 - Designed for clarity, speed, and extensibility.
+
+---
+
+### Automated Apartment Finder
+*Python, SQL, Data Pipelines*
+
+- Designed modular scripts to extract, clean, and normalize rental data from multiple sources.
+- Built a data ingestion and storage pipeline using SQL to enable structured querying and comparative analysis.
+- Focused on maintainability, performance, and reproducible data processing workflows.
 
 ---
 
@@ -60,15 +69,15 @@ I like working close to the logic: state, performance, synchronization, and how 
 
 ---
 
-### 2D Platformer Game
+### 2D Portal Platformer Game
 *Unity, C#*
 
-- Developed a 2D platformer featuring custom mechanics, level design, and UI.
-- Focused on responsive controls, player feedback, and clean gameplay flow.
+- Developed a 2D platformer featuring custom mechanics (including working portal with seamless physics), level design, and UI.
+- Focused on responsive controls enhancements, player feedback, and clean gameplay flow.
 
 ---
 
-### Valorant Analysis - Competitive Game Data Visualization
+### Valorant Analysis - Competitive Matches Data Visualization
 *Python, Plotly, NetworkX*
 
 - Analyzed Valorant Champion Tour (2021–2023) datasets from Kaggle.
@@ -77,7 +86,7 @@ I like working close to the logic: state, performance, synchronization, and how 
 
 ---
 
-### Flashcard Farm - Gamified Study Tool
+### Flashcard Farm - Study Tool
 *Java, Swing, OOP*
 
 - Created a gamified flashcard system where correct answers grow a virtual farm.
