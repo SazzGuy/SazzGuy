@@ -86,7 +86,7 @@ I like working close to the logic: state, performance, synchronization, and how 
 
 ---
 
-### Dr. Mario - MIPS Assembly Edition
+### Dr. Mario - in Assembly (MIPS)
 *MIPS Assembly*
 
 - Recreated Dr. Mario from scratch at the assembly level.
