@@ -32,6 +32,14 @@ I like working close to the logic: state, performance, synchronization, and how 
 
 ## Featured Projects
 
+### Memory Care -- Cognitive Support Tool (SwiftUI)
+
+- Built mobile application focused on usability, stability, and intuitive user interaction flows using SwiftUI.
+- Applied rapid prototyping using AI prompting to quickly implement features and refine UI/UX through iterative feedback.
+- Improved application stability through continuous debugging, testing, and incremental feature refinement.
+
+--- 
+
 ### TurboType - Multiplayer Typing Racing Game (Android)
 *Kotlin, Jetpack Compose, Firebase, MVVM*
 
